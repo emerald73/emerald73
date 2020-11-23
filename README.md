@@ -2,7 +2,6 @@
 I am a 14 year old Python developer, but I am also learning some web stuff like HTML and CSS.
 <details open>
   <summary><b>Stuff I use</b></summary>
-  <p>
     [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
     [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)]()
     [![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)]()
@@ -10,7 +9,6 @@ I am a 14 year old Python developer, but I am also learning some web stuff like 
     [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
     [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)]() 
     [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)]()
-  </p>
 </details>
 
 
