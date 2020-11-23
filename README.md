@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi, i'm Emerald!
+I am a 14 year old Python developer, but I am also learning some web stuff like HTML and CSS.
+<details open>
+  <summary><b>Stuff I use</b></summary>
+  <p>
+    [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+    [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)]()
+    [![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)]()
+    [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)]() 
+    [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+    [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+    [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)]()
+  </p>
+</details>
 
-<!--
-**emerald73/emerald73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details open>
+<summary><b>Contact</b></summary>
+<p>
+<a href="https://github.com/emerald73" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github" />
+</a>
+[![Discord: Emerald#8617](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)]() 
+</p>
+</details>
+<details closed>
+  
+<summary><b>Other Info</b></summary>
+[![Github stats](https://github-readme-stats.vercel.app/api?username=emerald73&count_private=true&show_icons=true&theme=dark)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emerald73&theme=dark&count_private=true)]()
+![README views](https://api.ghprofile.me/view?username=emerald73-Boblin-the-Goblin&style=for-the-badge&color=green)
+</details>
