@@ -33,5 +33,5 @@ I am a 14 year old Python developer, but I am also learning some web stuff like 
 <summary><b>Other Info</b></summary>
 [![Github stats](https://github-readme-stats.vercel.app/api?username=emerald73&count_private=true&show_icons=true&theme=dark)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emerald73&theme=dark&count_private=true)]()
-![README views](https://api.ghprofile.me/view?username=emerald73-Boblin-the-Goblin&style=for-the-badge&color=green)
+![README views](https://api.ghprofile.me/view?username=emerald73&style=for-the-badge&color=green)
 </details>
