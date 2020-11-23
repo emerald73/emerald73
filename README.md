@@ -23,6 +23,8 @@ I am a 14 year old Python developer, but I am also learning some web stuff like 
 <a href="https://github.com/emerald73" target="_blank">
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github" />
 </a>
+  
+Discord: Emerald#8617
 
 </p>
 </details>
