@@ -36,6 +36,6 @@ Discord: Emerald#8617
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emerald73&theme=dark&count_private=true)]()
 
-![README views](https://api.ghprofile.me/view?username=emerald73-emerald73&style=for-the-badge&color=green)
+![README views](https://api.ghprofile.me/view?username=emerald73&style=for-the-badge&color=green)
 
 </details>
