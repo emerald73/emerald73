@@ -6,6 +6,7 @@ I am a 14 year old Python developer, but I am also learning some web stuff like 
 <p>
   
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-D8C31A?style=for-the-badge&logo=javascript&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)]()
 [![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)]()
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)]() 
