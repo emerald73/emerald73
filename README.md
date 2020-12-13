@@ -50,7 +50,7 @@ Discord: Emerald#8617
 <summary><b>Other Cool People!</b></summary>
 
 <a href="https://github.com/Sh-wayz" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Sh-wayz&color=blue" />
+  <img src="https://img.shields.io/static/v1?message=Sh-wayz&color=blue?style=for-the-badge" />
 </a>
 
 </details>
