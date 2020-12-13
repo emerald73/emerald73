@@ -44,3 +44,11 @@ Discord: Emerald#8617
 ![README views](https://api.ghprofile.me/view?username=emerald73&style=for-the-badge&color=green)
 
 </details>
+
+<details closed>
+
+<summary><b>Other Cool People!</b></summary>
+
+<a href="https://github.com/Sh-wayz" target="_blank">Sh-wayz</a>
+
+</details>
