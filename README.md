@@ -25,6 +25,9 @@ I am a 14 year old Python developer, but I am also learning HTML, CSS, and JavaS
 <a href="https://github.com/emerald73" target="_blank">
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github" />
 </a>
+<a href="mailto:gdemeralddragon@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
   
 Discord: Emerald#8617
 
