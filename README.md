@@ -49,6 +49,9 @@ Discord: Emerald#8617
 
 <summary><b>Other Cool People!</b></summary>
 
-<a href="https://github.com/Sh-wayz" target="_blank">Sh-wayz</a>
+<a href="https://github.com/Sh-wayz" target="_blank">
+  Sh-wayz
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github" />
+</a>
 
 </details>
