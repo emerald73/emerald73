@@ -1,5 +1,5 @@
 ### Hi, i'm Emerald!
-I am a 14 year old Python developer, but I am also learning HTML, CSS, and JavaScript.
+I am a 14 year old Python developer. Not much more to it.
 
 <details open>
 <summary><b>Stuff I use</b></summary>
