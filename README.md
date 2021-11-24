@@ -1,5 +1,5 @@
-### Hi, i'm Emerald!
-I am a 14 year old Python developer. Not much more to it. I do know a tiny bit of HTML, CSS, and JavaScript, although i don't use them.
+### sup
+I do stuff occasionally idk
 
 <details open>
 <summary><b>Stuff I use</b></summary>
@@ -44,7 +44,7 @@ Discord: Emerald#8617
 
 <details closed>
 
-<summary><b>Other Cool People!</b></summary>
+<summary><b>cool dudes</b></summary>
 
 <a href="https://github.com/Sh-wayz" target="_blank">
   Sh-wayz
