@@ -18,6 +18,7 @@ I do stuff occasionally idk
 </p>
 </details>
 
+Check out PyMine! https://github.com/py-mine
 
 <details open>
 <summary><b>Contact</b></summary>
