@@ -32,16 +32,6 @@ Discord: emerald#8617
 </p>
 </details>
 <details closed>
-  
-<summary><b>Other Info</b></summary>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=emerald73&count_private=true&show_icons=true&theme=dark)]()
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emerald73&theme=dark&count_private=true)]()
-
-</details>
-
-<details closed>
 
 <summary><b>cool dudes</b></summary>
 
