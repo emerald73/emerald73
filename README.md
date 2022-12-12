@@ -41,9 +41,6 @@ Discord: emerald#8617
 
 <br>
 
-<a href="https://github.com/Iapetus-11" target="_blank">
-  [![Iapetus11](https://img.shields.io/badge/iapetus11-1A86FD?style=for-the-badge&logo=Buddy&logoColor=white)]()
-  
-</a>
+[![Iapetus11](https://img.shields.io/badge/iapetus11-1A86FD?style=for-the-badge&logo=Buddy&logoColor=white)](https://github.com/Iapetus-11)
 
 </details>
