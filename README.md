@@ -12,6 +12,7 @@ Robotics & Automation student
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)]()
 [![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)]()
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)]() 
+[![AutoCad](https://img.shields.io/badge/AutoCad-0696D7?style=for-the-badge&logo=AutoDesk&logoColor=white)]()
 
 </p>
 </details>
