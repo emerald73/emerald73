@@ -18,7 +18,7 @@ Robotics & Automation student
 </p>
 </details>
 
-Check out PyMine! https://github.com/py-mine
+Check out [PyMine](https://github.com/py-mine)!
 
 <details open>
 <summary><b>Contact</b></summary>
@@ -38,8 +38,6 @@ Discord: emerald#8617
 [![Github stats](https://github-readme-stats.vercel.app/api?username=emerald73&count_private=true&show_icons=true&theme=dark)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emerald73&theme=dark&count_private=true)]()
-
-![README views](https://api.ghprofile.me/view?username=emerald73&style=for-the-badge&color=green)
 
 </details>
 
