@@ -1,6 +1,8 @@
 ### sup
 I do stuff occasionally idk
 
+Robotics & Automation student
+
 <details open>
 <summary><b>Stuff I use</b></summary>
 <p>
