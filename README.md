@@ -1,3 +1,8 @@
+<head>
+  <base target="_blank">
+</head>
+
+
 ### sup
 I do stuff occasionally idk
 
@@ -35,7 +40,7 @@ Discord: emerald#8617
 
 <summary><b>cool dudes</b></summary>
 
-[![Shwayz](https://img.shields.io/badge/shwayz-1A86FD?style=for-the-badge&logo=Buddy&logoColor=white)](https://github.com/Sh-wayz){:target="_blank"}
+[![Shwayz](https://img.shields.io/badge/shwayz-1A86FD?style=for-the-badge&logo=Buddy&logoColor=white)](https://github.com/Sh-wayz)
 
 [![Iapetus11](https://img.shields.io/badge/iapetus11-1A86FD?style=for-the-badge&logo=Buddy&logoColor=white)](https://github.com/Iapetus-11)
 
