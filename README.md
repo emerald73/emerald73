@@ -36,13 +36,14 @@ Discord: emerald#8617
 <summary><b>cool dudes</b></summary>
 
 <a href="https://github.com/Sh-wayz" target="_blank">
-  Sh-wayz
+  [![Shwayz](https://img.shields.io/badge/shwayz-1A86FD?style=for-the-badge&logo=Buddy&logoColor=white)]()
 </a>
 
 <br>
 
 <a href="https://github.com/Iapetus-11" target="_blank">
-  Iapetus-11
+  [![Iapetus11](https://img.shields.io/badge/iapetus11-1A86FD?style=for-the-badge&logo=Buddy&logoColor=white)]()
+  
 </a>
 
 </details>
