@@ -10,7 +10,7 @@ Robotics & Automation student
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)]() 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)]()
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?styke=for-the-badge&logo=Arduino&logoColor=white)]()
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)]()
 [![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)]()
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)]() 
 [![AutoCad](https://img.shields.io/badge/AutoCad-0696D7?style=for-the-badge&logo=AutoDesk&logoColor=white)]()
