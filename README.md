@@ -24,9 +24,8 @@ I speak English and I am learning Norwegian
 
 <details closed>
   <summary><b>projects</b></summary>
-  <p>
-    [![emerald's Demon List](https://img.shields.io/badge/shwayz-1A86FD?style=for-the-badge&logo=Buddy&logoColor=white)](https://emerald73.github.io/emerald-demon-list)
-  </p>
+    
+  [![emerald's Demon List](https://img.shields.io/badge/DemonList-1A86FD?style=for-the-badge&logo=Buddy&logoColor=white)](https://emerald73.github.io/emerald-demon-list)
 </details>
 
 Check out [PyMine](https://github.com/py-mine)! (unmaintaned but i kinda wanna come back to it lmao)
