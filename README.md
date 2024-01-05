@@ -25,7 +25,7 @@ I speak English and I am learning Norwegian
 <details closed>
   <summary><b>projects</b></summary>
   <p>
-    nothing rn lmao
+    [![emerald's Demon List](https://img.shields.io/badge/shwayz-1A86FD?style=for-the-badge&logo=Buddy&logoColor=white)](https://emerald73.github.io/emerald-demon-list)
   </p>
 </details>
 
