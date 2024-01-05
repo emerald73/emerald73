@@ -19,6 +19,8 @@ I speak English and I am learning Norwegian
 [![AutoCad](https://img.shields.io/badge/AutoCad-0696D7?style=for-the-badge&logo=AutoDesk&logoColor=white)]()
 [![OnShape](https://img.shields.io/badge/OnShape-DC0032?style=for-the-badge&logo=DPD&logoColor=white)]()
 
+Also some html/css & SolidWorks, but I don't remember how to get these badges LOL
+
 </p>
 </details>
 
@@ -43,7 +45,7 @@ Discord: gdemerald
 </details>
 <details closed>
 
-<summary><b>cool dudes</b></summary>
+<summary><b>cool dudes</b></summary><br>
 
 [![Shwayz](https://img.shields.io/badge/shwayz-1A86FD?style=for-the-badge&logo=Buddy&logoColor=white)](https://github.com/Sh-wayz)
 
