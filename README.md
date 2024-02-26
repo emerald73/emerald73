@@ -5,6 +5,7 @@ Robotics & Automation student
 
 I speak English and I am learning Norwegian
 
+<!--
 <details open>
 <summary><b>Stuff I use</b></summary>
 <p>
@@ -25,6 +26,8 @@ Also some html/css & SolidWorks, but I don't remember how to get these badges LO
 </details>
 
 <details closed>
+-->
+
   <summary><b>projects</b></summary><br>
     
   [![emerald's Demon List](https://img.shields.io/badge/DemonList-1A86FD?style=for-the-badge&logo=Buddy&logoColor=white)](https://emerald73.github.io/emerald-demon-list)
