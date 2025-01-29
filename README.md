@@ -1,7 +1,7 @@
 ### Hey
 I do stuff occasionally IDK
 
-- I'm 17, and I program on occasion when I feel like it but I'm kinda really bad at it lol
+- I'm 18, and I program on occasion when I feel like it but I'm kinda really bad at it lol
 
 - I usually make simple mods for games like Geometry Dash or Balatro
 
